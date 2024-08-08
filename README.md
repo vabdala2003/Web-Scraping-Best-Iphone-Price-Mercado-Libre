@@ -17,6 +17,7 @@ Here, you'll find a PyAutoGUI application that provides options for each iPhone 
 
 To get started with this project, you'll need:
 
+- **Chrome**: Ensure Chrome web browser is installed on your system.
 - **Python**: Ensure Python is installed on your system.
 - **Dependencies**:
   - If using Visual Studio Code, install the Jupyter extension.
