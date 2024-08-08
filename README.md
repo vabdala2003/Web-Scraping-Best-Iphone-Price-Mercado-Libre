@@ -33,9 +33,7 @@ To get started with this project, you'll need:
 
 ## How to Use
 
-1. **Run WebScraping Scripts**: Execute the scripts in the `WebScraping` folder to collect and save the data.
-2. **Analyze Data**: Use the scripts in the `DataAnalysis` folder to process the data and generate a CSV with iPhone models and their lowest price links.
-3. **Use ChooseBestModel App**: Launch the PyAutoGUI app from the `ChooseBestModel` folder to select an iPhone model and be taken to its lowest price page.
+1. **Use ChooseBestModel App**: Launch the .ipynb from the `ChooseBestModel` folder to select an iPhone model and be taken to its lowest price page.
 
 ## What I Learned
 
